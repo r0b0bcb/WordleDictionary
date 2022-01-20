@@ -25,4 +25,4 @@ def WordleBot(green, yellow, exclude):
 
     else:
         return 'Input error: Correct your input values'
-WordleBot('?o?o?', 'tr', 'gemn')
+#WordleBot('?o?o?', 'tr', 'gemn')
