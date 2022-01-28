@@ -1,7 +1,7 @@
 # WordleDictionary
 ## Uses your clues from PowerLanguage's Wordle game to look for words in the solutions list that fit those hints
 
- The app Wordle is a popular game in my circle. It's a guessing game with an unkown 5-letter word. It gives you hints after you guess a word. Yellow means you have a correct letter in the wrong spot, green means correcct letter in correct spot, and grey means the letter is not in the word. You have 6 guesses to get the correct word.
+ The app Wordle is a popular game in my circle. It's a guessing game with an unknown 5-letter word. It gives you hints after you guess a word. Yellow means you have a correct letter in the wrong spot, green means correcct letter in correct spot, and grey means the letter is not in the word. You have 6 guesses to get the correct word.
  
  This script is designed to look up 5-letter words that fit your guessed letters.
 
