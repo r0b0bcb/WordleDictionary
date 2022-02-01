@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 def WordleBot(green, yellow, exclude):
     if check_input(green, yellow, exclude) == True:
         green_possible = green_search(green)
-        yellow_possible = yellow_search(yellow, green_possible)
+        yellow_possible = yellow_search2(yellow, green_possible)
         possible_words = remove_search(exclude, yellow_possible)
         common_letters = dict(letter_count(possible_words))
         
